@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstprojectreactgoiteens/static/css/main.e6c13ad2.css",
+    "main.js": "/firstprojectreactgoiteens/static/js/main.feca9ace.js",
+    "index.html": "/firstprojectreactgoiteens/index.html",
+    "main.e6c13ad2.css.map": "/firstprojectreactgoiteens/static/css/main.e6c13ad2.css.map",
+    "main.feca9ace.js.map": "/firstprojectreactgoiteens/static/js/main.feca9ace.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.feca9ace.js"
+  ]
+}
